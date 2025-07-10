@@ -1,22 +1,8 @@
 # Encoderrs 🔥
 
-```
-🎯 Decode your Computer Knowledge
-📍 Made in Bengal, Built for Bengalis
-🚀 Breaking barriers, one Bengali byte at a time
-```
+> **Programming made simple in Bengali**
 
 [![Website](https://img.shields.io/badge/🌐_Visit-encoderrs.com-FF6B6B?style=for-the-badge)](https://encoderrs.com/)
-[![Bengali](https://img.shields.io/badge/🗣️_In-Bengali-4ECDC4?style=for-the-badge)](https://en.wikipedia.org/wiki/Bengali_language)
-[![Community](https://img.shields.io/badge/👥_Join-Community-45B7D1?style=for-the-badge)](#)
-
----
-
-## 🎪 What's the Magic?
-
-Ever tried learning recursion in English and felt like your brain was doing infinite loops? 🤯
-
-**We get it.** That's why we're teaching programming the way it should be taught - in **Bengali**! Because why should `মা` call a function when she can just `ডাক দেওয়া`?
 
 ## 🎨 The Canvas
 
@@ -31,58 +17,36 @@ def encoderrs_experience():
     }
 ```
 
-## 🛠️ Our Arsenal
+## 🎯 What's This?
 
-- **DSA** - Data Structures যেটা আসলে কাজ করে
-- **Python** - সাপ নয়, প্রোগ্রামিং ল্যাঙ্গুয়েজ
-- **AI/ML** - বুদ্ধিমত্তা, কৃত্রিম কিন্তু কার্যকর
-- **System Design** - বড় সিস্টেম বানানোর কলাকৌশল
+Learn programming in **Bengali** because why struggle with English when you can code in your mother tongue?
 
-## 💡 The Plot Twist
+```python
+# Other platforms
+confusion = "English explanations 😵‍💫"
 
-```javascript
-// Other platforms be like:
-function learnProgramming() {
-    return "Confusing English explanations 😵‍💫";
-}
-
-// Encoderrs be like:
-function শিখুনপ্রোগ্রামিং() {
-    return "Crystal clear Bengali explanations ✨";
-}
+# Encoderrs
+clarity = "Bengali explanations ✨"
 ```
 
-## 🎯 Join the Revolution
+## 🛠️ We Teach
 
-Ready to code like a boss? Here's your roadmap:
+- **DSA** - Algorithms that actually make sense
+- **Python** - The snake that codes
+- **AI/ML** - Smart machines, smarter you
+- **System Design** - Build stuff that scales
 
-1. **🚪 Enter** → [encoderrs.com](https://encoderrs.com/)
-2. **👀 Explore** → Pick your poison (course)
-3. **🎮 Play** → Interactive coding exercises
-4. **🏆 Conquer** → Real-world projects
-5. **💼 Land** → Your dream job
+## 🚀 Why Us?
 
-## 🤝 Want to Be Part of the Gang?
+- **Native Language**: Complex concepts in simple Bengali
+- **Real Projects**: Build actual things, not toy examples
+- **Industry Ready**: Skills that get you hired
 
-Got skills? Got passion? Got ideas? We're always looking for:
-- **Course Creators** 📚
-- **Code Reviewers** 👨‍💻
-- **Community Builders** 🏗️
-- **Bug Hunters** 🐛
+## 🎪 Join the Fun
 
-Just fork, code, and pull request your way to glory!
-
-## 🎪 The Numbers Don't Lie
-
-- **🎓 Thousands** of students crushing their coding goals
-- **🏢 Industry** professionals vouching for our approach  
-- **🌟 Real** career transformations happening daily
-
-## 🔥 Hot Takes
-
-> *"Finally, programming that makes sense in my language!"* - Every Bengali developer ever
-
-> *"Why didn't someone do this sooner?"* - Professor who's been teaching for 20 years
+1. Visit [encoderrs.com](https://encoderrs.com/)
+2. Pick a course
+3. Start coding like a pro
 
 ---
 
@@ -90,9 +54,8 @@ Just fork, code, and pull request your way to glory!
 
 **🎯 Ready to decode your potential?**
 
-**Stop dreaming in English. Start coding in Bengali.** 
-
 [**Jump In →**](https://encoderrs.com/)
+
 
 </div>
 
