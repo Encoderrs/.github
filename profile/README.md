@@ -17,36 +17,13 @@ def encoderrs_experience():
     }
 ```
 
-## 🎯 What's This?
-
-Learn programming in **Bengali** because why struggle with English when you can code in your mother tongue?
-
-```python
-# Other platforms
-confusion = "English explanations 😵‍💫"
-
-# Encoderrs
-clarity = "Bengali explanations ✨"
-```
-
 ## 🛠️ We Teach
 
-- **DSA** - Algorithms that actually make sense
-- **Python** - The snake that codes
-- **AI/ML** - Smart machines, smarter you
-- **System Design** - Build stuff that scales
+**DSA** • **Python** • **AI/ML** • **System Design**
 
 ## 🚀 Why Us?
 
-- **Native Language**: Complex concepts in simple Bengali
-- **Real Projects**: Build actual things, not toy examples
-- **Industry Ready**: Skills that get you hired
-
-## 🎪 Join the Fun
-
-1. Visit [encoderrs.com](https://encoderrs.com/)
-2. Pick a course
-3. Start coding like a pro
+Complex concepts in simple Bengali + Real projects + Industry-ready skills
 
 ---
 
@@ -56,12 +33,6 @@ clarity = "Bengali explanations ✨"
 
 [**Jump In →**](https://encoderrs.com/)
 
-
-</div>
-
----
-<div align="center">
-  
-*Made with ❤️ in Bengal | Powered by curiosity | Fueled by adda*
+*Made with ❤️ in Bengal*
 
 </div>
