@@ -17,13 +17,9 @@ def encoderrs_experience():
     }
 ```
 
-## 🛠️ We Teach
-
-**DSA** • **Python** • **AI/ML** • **System Design**
-
 ## 🚀 Why Us?
 
-Complex concepts in simple Bengali + Real projects + Industry-ready skills
+Complex concepts in simple Bengali + Industry-ready skills + Placement Guidance
 
 ---
 
@@ -33,6 +29,6 @@ Complex concepts in simple Bengali + Real projects + Industry-ready skills
 
 [**Jump In →**](https://encoderrs.com/)
 
-*Made with ❤️ in Bengal*
+*Made with ❤️ in Bengal | Powered by curiosity | Fueled by adda*
 
 </div>
